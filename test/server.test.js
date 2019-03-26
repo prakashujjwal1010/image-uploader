@@ -20,7 +20,7 @@ describe('testing server', () => {
       request(server)
         .post('/api/upload')
         .field('Content-Type', 'multipart/form-data')
-        .attach("encryptedImg", "./sample.jpg")
+        .attach("encryptedImg", "../sample.jpg")
         .expect(200)
         .expect({
           success : true
