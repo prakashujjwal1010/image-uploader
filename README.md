@@ -6,7 +6,7 @@ to the server and then server decrypts it and store it.
 ## Installing Packages
 
 cd into project root directory 'image-uploader'
-then install required packages for SERVER
+then install required packages for server
 ```bash
 npm install
 ```
