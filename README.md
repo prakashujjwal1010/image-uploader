@@ -3,6 +3,9 @@
 it is an implementation of an image uploader which send an encrypted image
 to the server and then server decrypts it and store it.
 
+![Screenshot from 2020-03-17 00-57-00](https://user-images.githubusercontent.com/40318927/76793160-8d5e5800-67ea-11ea-90df-ad624f9827a9.png)
+
+
 ## Installing Packages
 
 cd into project root directory 'image-uploader'
